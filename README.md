@@ -7,13 +7,14 @@ Designed for daily notes, journaling, and workflow automation—no coding skills
 
 ## 📑 Table of Contents
 
-- [✨ Features](#Features)
-- [Quick Start](#Quick-Start)
-- [Usage](#Usage)
-- [Example Output](#Example-Output)
-- [Troubleshooting](#Troubleshooting)
-- [Obsidian Automation Note](#Obsidian-Automation-Note)
-- [Inspiration](#Inspiration)
+- [✨ Features](#features)
+- [🚀 Quick Start](#quick-start)
+- [💡 Usage](#usage)
+- [Screenshots](#screenshots)
+- [Example Output](#example-output)
+- [Troubleshooting](#troubleshooting)
+- [Obsidian Automation Note](#obsidian-automation-note)
+- [Inspiration](#inspiration)
 
 ---
 
