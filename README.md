@@ -1,11 +1,4 @@
-# obsidian-date-templates
-
-A collection of Obsidian Templater snippets for custom note-taking workflows.  
-Includes a stylish, highlighted date template with step-by-step hotkey setup instructions.
-
----
-
-## 🗓️ Obsidian Custom Date Template (Templater + Hotkey)
+# 🗓️ Obsidian Custom Date Template (Templater + Hotkey)
 
 Add a stylish, large, pink-highlighted date to any Obsidian note with one keystroke, using the Templater community plugin.  
 Designed for daily notes, journaling, and workflow automation—no coding skills required after setup!
