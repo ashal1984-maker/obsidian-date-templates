@@ -7,7 +7,7 @@ Designed for daily notes, journaling, and workflow automation—no coding skills
 
 ## 📑 Table of Contents
 
-- [Features](#Features)
+- [✨ Features](#Features)
 - [Quick Start](#Quick-Start)
 - [Usage](#Usage)
 - [Example Output](#Example-Output)
