@@ -7,13 +7,13 @@ Designed for daily notes, journaling, and workflow automation—no coding skills
 
 ## 📑 Table of Contents
 
-- [Features](#features)
-- [Quick Start](#quick-start)
-- [Usage](#usage)
-- [Example Output](#example-output)
-- [Troubleshooting](#troubleshooting)
-- [Obsidian Automation Note](#obsidian-automation-note)
-- [Inspiration](#inspiration)
+- [Features](#Features)
+- [Quick Start](#Quick-Start)
+- [Usage](#Usage)
+- [Example Output](#Example-Output)
+- [Troubleshooting](#Troubleshooting)
+- [Obsidian Automation Note](#Obsidian-Automation-Note)
+- [Inspiration](#Inspiration)
 
 ---
 
@@ -90,7 +90,7 @@ You can tweak the <span> style or the date format string (tp.date.now(...)) to f
 This repository is for all who want to supercharge their note-taking, one workflow at a time.
 Feel free to fork, adapt, or add your own snippets. If you invent a new workflow, open an issue or PR and share it with the community!
 
-🔖 Inspiration
+### 🔖 Inspiration
 “Let routine work for you, so you can work on what matters.
 Templates are the shortcuts to your future breakthroughs.”
 
